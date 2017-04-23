@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="lifePointsLayout">#30839f</color>
+    <color name="layoutLeft">#4083ff</color>
+    <color name="btnOk">#000000</color>
+    <color name="btnNumpadColor">#000000</color>
+    <color name="lifePointsok">#64dd17</color>
+    <color name="lifePointsmedium">#ffe100</color>
+    <color name="lifePointdanger">#ff1744</color>
+</resources>

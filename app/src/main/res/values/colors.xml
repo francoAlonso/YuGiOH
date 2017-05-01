@@ -8,7 +8,11 @@
     <color name="layoutLeft">#4083ff</color>
     <color name="btnOk">#000000</color>
     <color name="btnNumpadColor">#000000</color>
+    <color name="btnPlus">#64dd17</color>
+    <color name="btnMinus">#ff1744</color>
+    <color name="btnDamageBackground">#bbf50057</color>
     <color name="lifePointsok">#64dd17</color>
     <color name="lifePointsmedium">#ffe100</color>
     <color name="lifePointdanger">#ff1744</color>
+    <color name="lifePointBackground">#bbf50057</color>
 </resources>

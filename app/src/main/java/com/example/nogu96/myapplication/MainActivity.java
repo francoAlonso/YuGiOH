@@ -1,5 +1,6 @@
 package com.example.nogu96.myapplication;
 
+import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -111,38 +112,39 @@ public class MainActivity extends AppCompatActivity {
         btnPlus.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 lifePoints.setPlus(true);
+                btnPlus.setBackgroundColor(getResources().getColor(R.color.btnDamageBackground));
+                btnMinus.setBackgroundColor(0x00000000);
             }
         });
 
         btnMinus.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                    lifePoints.setPlus(false);
+                lifePoints.setPlus(false);
+                btnPlus.setBackgroundColor(0x00000000);
+                btnMinus.setBackgroundColor(getResources().getColor(R.color.btnDamageBackground));
             }
         });
 
         txtPlayer.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 player = true;
+                txtPlayer.setBackgroundColor(getResources().getColor(R.color.lifePointBackground));
+                txtOponent.setBackgroundColor(0x00000000);
             }
         });
 
         txtOponent.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 player = false;
+                txtOponent.setBackgroundColor(getResources().getColor(R.color.lifePointBackground));
+                txtPlayer.setBackgroundColor(0x00000000);
             }
         });
     }
 
     public void addDamage(int number){
-        txtDamage.setText( txtDamage.getText().toString() + number);
+        txtDamage.setText( txtDamage.getText().toString() + number );
         txtCancel.setVisibility(View.VISIBLE);
-    }
-
-    public void minusBtn(View v){
-
-    }
-    public void plusBtn(View v){
-
     }
 
 }

@@ -7,11 +7,18 @@ import android.graphics.Color;
 import android.support.v4.content.ContextCompat;
 import android.widget.TextView;
 
+import android.content.Context;
+import android.graphics.Color;
+import android.support.v4.content.ContextCompat;
+import android.widget.TextView;
+
 public class LifePoints {
+    private Context context;
     private boolean plus;
 
-    public LifePoints(){
+    public LifePoints(Context context){
         plus = true;
+        this.context = context;
     }
 
     public void doDamage(TextView textView, Integer damage){
@@ -22,11 +29,11 @@ public class LifePoints {
             actualLife = actualLife - damage;
         }
         if(actualLife >4000){
-
+            textView.setTextColor(context.getResources().getColor(R.color.lifePointsok));
         }else if(actualLife <=4000 && actualLife >= 2000){
-
+            textView.setTextColor(context.getResources().getColor(R.color.lifePointsmedium));
         }else{
-
+            textView.setTextColor(context.getResources().getColor(R.color.lifePointdanger));
         }
         textView.setText(actualLife.toString());
     }

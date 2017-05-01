@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        lifePoints = new LifePoints();
+        lifePoints = new LifePoints(this);
         txtDamage = (TextView)findViewById(R.id.txtDaño);
         txtPlayer = (TextView)findViewById(R.id.txtPlayer);
         txtOponent = (TextView)findViewById(R.id.txtOponent);

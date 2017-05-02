@@ -223,8 +223,9 @@
         <TextView android:id="@+id/txtOponent"
             android:text="8000"
             android:rotation="90"
-            android:textSize="40sp"
+            android:textSize="55sp"
             android:textColor="@color/lifePointsok"
+
             android:layout_weight="1"
             android:gravity="center"
             android:layout_width="match_parent"
@@ -232,7 +233,7 @@
 
         <TextView android:id="@+id/txtPlayer"
             android:text="8000"
-            android:textSize="40sp"
+            android:textSize="55sp"
             android:textColor="@color/lifePointsok"
             android:rotation="90"
             android:layout_weight="1"

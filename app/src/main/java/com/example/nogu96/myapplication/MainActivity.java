@@ -1,6 +1,7 @@
 package com.example.nogu96.myapplication;
 
 import android.content.Context;
+import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -86,6 +87,13 @@ public class MainActivity extends AppCompatActivity {
                 addDamage(9);
             }
         });
+
+        txtPlayer.setBackgroundColor(getResources().getColor(R.color.lifePointBackground));
+        btnPlus.setBackgroundColor(getResources().getColor(R.color.btnDamageBackground));
+
+        final Typeface font = Typeface.createFromAsset(getAssets(), "fonts/digital-7.ttf");
+        txtPlayer.setTypeface(font);
+        txtOponent.setTypeface(font);
 
         btnOk.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {

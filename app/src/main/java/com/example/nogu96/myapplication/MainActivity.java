@@ -1,6 +1,5 @@
 package com.example.nogu96.myapplication;
 
-import android.content.Context;
 import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -87,11 +86,11 @@ public class MainActivity extends AppCompatActivity {
                 addDamage(9);
             }
         });
-
+        //asigno las opciones seleccionadas
         txtPlayer.setBackgroundColor(getResources().getColor(R.color.lifePointBackground));
         btnPlus.setBackgroundColor(getResources().getColor(R.color.btnDamageBackground));
-
-        final Typeface font = Typeface.createFromAsset(getAssets(), "fonts/digital-7.ttf");
+        //le asigno la tipografia
+        final Typeface font = Typeface.createFromAsset(getAssets(), "fonts/TickingTimebombBB.ttf");
         txtPlayer.setTypeface(font);
         txtOponent.setTypeface(font);
 

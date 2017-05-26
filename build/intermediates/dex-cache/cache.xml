@@ -1,3 +1,293 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\.android\build-cache\d2154ee9a84b3a51dcc896c653b4a63187ee9d3a\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b39ad8d81285b9be44681306317f5da05ae48c8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\.android\build-cache\a5ce639ef52a825a60d9d8fd765bde6f8bb682e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_898afa7aee55210000fe5c2383b353d1f4221a60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\.android\build-cache\3ba2722a7c3679afcf6842684d8306335c770bcf\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_71ea19eb7f1d05b6b174688e004a0d7569d7200c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\.android\build-cache\d2154ee9a84b3a51dcc896c653b4a63187ee9d3a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_308cd833127e8f10bc2700923555cb5d4151e6d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\.android\build-cache\d2154ee9a84b3a51dcc896c653b4a63187ee9d3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\classes_308cd833127e8f10bc2700923555cb5d4151e6d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\.android\build-cache\3ba2722a7c3679afcf6842684d8306335c770bcf\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_71ea19eb7f1d05b6b174688e004a0d7569d7200c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\.android\build-cache\25ee17483560689b5298c59d861f9cc161816506\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d12b3e58719e4390c554c4a6ff3051409027f0a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\.android\build-cache\25ee17483560689b5298c59d861f9cc161816506\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\classes_456afd81c21f55d719b15bf5d0d1ce82ff7fad1e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_6dcd8033c9fb70115b9365b7257aa706b23551b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\.android\build-cache\25ee17483560689b5298c59d861f9cc161816506\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_d12b3e58719e4390c554c4a6ff3051409027f0a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\.android\build-cache\a5ce639ef52a825a60d9d8fd765bde6f8bb682e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\classes_898afa7aee55210000fe5c2383b353d1f4221a60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\.android\build-cache\a426484dbf85bc27eaf4f5935c720f3797a705d2\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_46f63c796d44eb24bf7d2d1e7d2594d57c76f6e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\.android\build-cache\d7e2cde4df208aaef3fbaf94dd67892007f511c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\classes_3c16ad4bf4f3ba0d598d9cbcf11ebe3facd0d295.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\.android\build-cache\25ee17483560689b5298c59d861f9cc161816506\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_456afd81c21f55d719b15bf5d0d1ce82ff7fad1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_6dcd8033c9fb70115b9365b7257aa706b23551b7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\.android\build-cache\a426484dbf85bc27eaf4f5935c720f3797a705d2\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_46f63c796d44eb24bf7d2d1e7d2594d57c76f6e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\.android\build-cache\d7e2cde4df208aaef3fbaf94dd67892007f511c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c16ad4bf4f3ba0d598d9cbcf11ebe3facd0d295\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\.android\build-cache\3ba2722a7c3679afcf6842684d8306335c770bcf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f42bdc27fe951d1d6523936a54f801c740b56dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\.android\build-cache\a5ce639ef52a825a60d9d8fd765bde6f8bb682e6\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_bf735737d3171d290998db9d537783a1b73bb28b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\.android\build-cache\a5ce639ef52a825a60d9d8fd765bde6f8bb682e6\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_bf735737d3171d290998db9d537783a1b73bb28b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\.android\build-cache\3ba2722a7c3679afcf6842684d8306335c770bcf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\classes_3f42bdc27fe951d1d6523936a54f801c740b56dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\.android\build-cache\d2154ee9a84b3a51dcc896c653b4a63187ee9d3a\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_b39ad8d81285b9be44681306317f5da05ae48c8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\.android\build-cache\a426484dbf85bc27eaf4f5935c720f3797a705d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\classes_629372ac7873b386599d8d452a20047ba7ba7240.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\.android\build-cache\a426484dbf85bc27eaf4f5935c720f3797a705d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_629372ac7873b386599d8d452a20047ba7ba7240\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\.android\build-cache\79cf623965382f6c5f9fb76375b3d23ddbd47786\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\classes_3619c53cf8bf664d4241fb9315b32dc4d876183a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\.android\build-cache\58b6c5cca363237200d5fec63a3c7efc0fd9beda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_62a30647b3fbc49dd38ccaaab1b0006999b70a98\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\.android\build-cache\58b6c5cca363237200d5fec63a3c7efc0fd9beda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\classes_62a30647b3fbc49dd38ccaaab1b0006999b70a98.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93ce5fb8c8b0b1af46b0732693c549868956250b">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_167ef8691c1dcdb418d7004de3a797f7bd267021\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\.android\build-cache\79cf623965382f6c5f9fb76375b3d23ddbd47786\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3619c53cf8bf664d4241fb9315b32dc4d876183a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\.android\build-cache\dcce8a5218311c6d4829ac777b7d590e76d3d27c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84d15b8a85f700dab0c6308f77b5115ffa12b884\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nogu96\.android\build-cache\dcce8a5218311c6d4829ac777b7d590e76d3d27c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\pre-dexed\debug\classes_84d15b8a85f700dab0c6308f77b5115ffa12b884.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\nogu96\Desktop\adobe\android\MyApplication\YuGiOH\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_156bbfc6f88c19fd11bb7235bbe1e4e799cd4766\classes.dex" />
+    </item>
+
+</items>
